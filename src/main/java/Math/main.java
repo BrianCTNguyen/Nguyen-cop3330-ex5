@@ -39,10 +39,10 @@ public class main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.println("What is the first number?");
+        System.out.println("What is the first number? ");
         String firstNumber = in.next();
 
-        System.out.println("What is the second number?");
+        System.out.println("What is the second number? ");
         String secondNumber = in.next();
 
         int FirstNumber = Integer.parseInt(firstNumber);
